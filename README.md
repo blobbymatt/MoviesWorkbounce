@@ -10,4 +10,4 @@ To deliver a Django REST application to end users, follow these steps: Choose a 
 
 ## Use of ChatGPT
 
-Chat GPT was used during the creation this this document as it allowed quick summarization and idea generation for how this service could be devliverd. Chat GPT was not used during development as I find it often get code wrong and take longer to debug. 
+Chat GPT was used during the creation this this document as it allowed quick summarization and idea generation for how this service could be devliverd. Chat GPT was not used during development as I find it often gets code wrong which takes longer to debug over just writing it yourself. 
