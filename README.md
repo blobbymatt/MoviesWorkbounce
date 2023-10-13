@@ -1,7 +1,7 @@
 
 ## API Documentation
 
-There is a Postman connection that details all of the API endpoints within the project.
+There is a Postman collection that details all of the API endpoints within the project.
 
 ## Service Delivery
 
